@@ -16,4 +16,17 @@
 ### 예측 모델의 결과를 라인으로 전송
 
 ### 예측 종목을 Ai로 분석 내용을 작송하여 라인으로 전송
+
+# 주식 예측 모델링 과제
+- 절차
+  - 변수 중요도 파악
+  - 표준화된 컬럼 사용 (RSI, MACD, 스토오실레이터)
+    - 파생변수 생성 : MACD, 스토캐스틱 오실레이터
+   - 학습 데이터 : 'Change','RSI','MACD','D','Close'
+   - 클래스 불균형 -> XGBoost 사용, AutoML로 각 ml 성능 파악
+   - optuna로 최적의 하이퍼파라미터 추출
+ 
+- 결과 :
+![image](https://github.com/user-attachments/assets/90d56af7-3ed0-401a-83b3-0b1aa1ac4200)
+
  
