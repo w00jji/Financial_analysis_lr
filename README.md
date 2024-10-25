@@ -6,5 +6,10 @@
 | 2024 | 이동평균선 투자 전략  | [링크](https://github.com/w00jji/Financial_analysis_lr/tree/main/%EA%B8%88%EC%9C%B5%EB%B6%84%EC%84%9D_1018)|
 | 2024 | 효율적인 투자선  | [링크](https://github.com/w00jji/Financial_analysis_lr/tree/main/%EA%B8%88%EC%9C%B5%EB%B6%84%EC%84%9D_1021) |
 | 2024 | ETF 분석 및 모댈링, AI로 분석내용 작성 및 라인 활용 분석 내용 전송 , 과제 : ETF 모델링 및 튜닝 | [링크](https://github.com/w00jji/Financial_analysis_lr/tree/main/%EA%B8%88%EC%9C%B5%EB%B6%84%EC%84%9D_1023) |
+| 2024 | 강화학습 기반 주식 분석 | [링크](https://github.com/w00jji/Financial_analysis_lr/tree/main/%EA%B8%88%EC%9C%B5%EB%B6%84%EC%84%9D_1024) |
+
+
+
+
 
  
